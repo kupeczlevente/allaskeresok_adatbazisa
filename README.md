@@ -1,4 +1,4 @@
-Álláskeresők Adatbázisa Webalkalmazás 
+<b>Álláskeresők Adatbázisa Webalkalmazás<b><br>
 Áttekintés
 Ez a projekt egy egyszerű álláskeresők adatbázisát kezeli. A webalkalmazás lehetővé teszi új álláskeresők hozzáadását, meglévő adatok szerkesztését és törlését. Az adatokat egy MySQL adatbázis tárolja.
 
